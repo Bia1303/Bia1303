@@ -1,4 +1,13 @@
+h2{
+    COLOR:YELLOW;
+}
 
+body{
+    BACKGROUND-COLOR: GREEN;
+    FONT-FAMILY: VERDANA
+    COLOR: WHITE;
+    TEXT-ALIGN: CENTER;
+}
 - 👋 Hi, I’m @Bia1303
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
